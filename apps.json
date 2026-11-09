@@ -100,6 +100,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/a56b6ea9b986428c2ab2fb458f5da882/32/256x256.png"
     },
     {
+      "name": "Adam's Ant Farm (Body Harvest)",
+      "repository": "LunarLaurus/adams-ant-farm-recomp",
+      "folderName": "BodyHarvestRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/LunarLaurus/adams-ant-farm-recomp/main/media/icon.png"
+    },
+    {
       "name": "Bomberman 64: Recompiled",
       "repository": "RevoSucks/BM64Recomp",
       "folderName": "BM64Recompiled",
